@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinicius-bender.
 - 👀 I’m interested in learning more about programming.
-- 🌱 I’m currently studying Flutter.
+- 🌱 I’m currently studying Web development and Flutter.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vinicius-bender/">Linkedin</a>
 
 <!---
