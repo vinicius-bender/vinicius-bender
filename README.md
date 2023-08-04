@@ -4,4 +4,11 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vinicius-bender/">LinkedIn</a>
 
 
-[![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-bender)](https://github.com/anuraghazra/github-readme-stats)
+<hr />
+
+### Stats
+
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-bender1&theme=dracula&layout=compact" alt="Statistics" height="180"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=vinicius-bender&theme=dracula&layout=compact" alt="Languages" height="180"/>
+</div>
