@@ -9,6 +9,5 @@
 ### Stats
 
 <div>
-    <img src="https://github-readme-stats-nine-self-74.vercel.app//api/?username=vinicius-bender&theme=dracula&layout=compact" alt="Statistics" height="180"/> 
-    <img src="https://github-readme-stats-nine-self-74.vercel.app/api/top-langs/?username=vinicius-bender&theme=dracula&layout=compact" alt="Languages" height="180"/>
+    
 </div>
