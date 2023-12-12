@@ -9,6 +9,5 @@
 ### Stats
 
 <div>
-    <img src="https://github-readme-stats-nine-self-74.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/> 
-    <img src="https://github-readme-stats-nine-self-74.vercel.app//api/top-langs/?username=anuraghazra&show_icons=true&theme=radical"/>
+    ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-bender&theme=dark&show_icons=true)
 </div>
