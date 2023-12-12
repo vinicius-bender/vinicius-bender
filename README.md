@@ -9,6 +9,6 @@
 ### Stats
 
 <div>
-    <img src="https://github-readme-stats-viniciusbender01-outlookcom.vercel.app/api/?username=vinicius-bender height=180"/> 
-    <img src="https://github-readme-stats-nine-self-74.vercel.app/api/top-langs/?username=vinicius-bender height=180"/>
+    <img src="https://github-readme-stats-nine-self-74.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/> 
+    <img src="https://github-readme-stats-nine-self-74.vercel.app//api/top-langs/?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
