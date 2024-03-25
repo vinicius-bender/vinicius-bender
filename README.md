@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about Programming and Motion Design.
 - 🌱 I’m currently studying Web development.
 - 📫 How to reach me: <a href="viniciusbender01@outlook.com">viniciusbender01@outlook.com</a>
-- Discord: shiny6912
+- 🤓 Discord: shiny6912
 
 
 <hr />
